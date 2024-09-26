@@ -1,0 +1,13 @@
+checkpoint
+test_data
+results
+LIDC-IDRI
+figs
+dataset_info
+data/Airway/LIDC-IDRI
+data/Airway/LIDC-IDRI_annotation
+data/Airway/metadata.csv
+data/Airway/EXACT09
+data/Airway/EXACT09_3D
+data/Airway/EXACT09_annotation
+data/Airway/Precrop_dataset_for_EXACT09
